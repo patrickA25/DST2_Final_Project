@@ -3,7 +3,7 @@
 ## TODOs / Project Plan
 
 - [ ] Make sure to update read me file as I make changes
-- [ ] Get all data into one directory
+- [X] Get all data into one directory
     * Data from Surveys of Consumers from University of michigan
       * https://data.sca.isr.umich.edu/survey-info.php
     * Data from Kaggle
@@ -12,8 +12,8 @@
       * https://fred.stlouisfed.org/series/FEDFUNDS
     * Data from BLS (Bureau of Labor Statistics)
       * https://data.bls.gov/pdq/SurveyOutputServlet
-- [ ] Set up env for project
-- [ ] make script to clean data
+- [X] Set up env for project
+- [X] make script to clean data
 - [ ] run descriptive process
 - [ ] run model one 
   - [ ] for data with-out economic data
