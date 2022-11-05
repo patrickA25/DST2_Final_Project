@@ -1,0 +1,3 @@
+,product_id,name,price,billing_cycle
+0,prd_1,annual_subscription,1200,12
+1,prd_2,monthly_subscription,125,1
