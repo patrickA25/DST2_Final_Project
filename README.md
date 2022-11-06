@@ -14,9 +14,9 @@
       * https://data.bls.gov/pdq/SurveyOutputServlet
 - [X] Set up env for project
 - [X] make script to clean data
-- [ ] run descriptive analysis
+- [X] run descriptive analysis
   - [X] For Customer Data
-  - [ ] For non-customer Data
+  - [X] For non-customer Data
 - [ ] run model one 
   - [ ] for data with-out economic data
   - [ ] for data with economic data
